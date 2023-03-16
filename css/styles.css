@@ -15,3 +15,16 @@ h1 {
 h3 {
     color: #5D9C59;
 }
+
+img:hover {
+    border-radius: 20%;
+}
+
+.profilePicture {
+    width: 200px; 
+    height: 250px;
+}
+/******* this was to test pseudoclass hover on headings*******/
+/*h1:hover{
+    color:aliceblue;
+}*/
